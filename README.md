@@ -1,2 +1,0 @@
-# photoboothanaheim
-My awesome repository
